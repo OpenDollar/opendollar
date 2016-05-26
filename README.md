@@ -2,7 +2,7 @@
 
 OpenDollar (OD) is a new type of cryptocurrency, built using Ethereum Smart Contracts technology. The project intends to support social & non-profit fundraising initiatives and has very ambitious goals.
 
-OD is created in the amount of 25 bln units and kept by the team. Anyone can review the contract of the currency by this address [0xba3e14a7f0169d86fc1389ad40ca4356a1404640](https://etherscan.io/address/0xba3e14a7f0169d86fc1389ad40ca4356a1404640). Anyone is free to use, exchange and transfer any number of OD.
+OD is created in the amount of 25 bln units and kept by the team. Anyone can review the contract of the currency by this address [0xba3e14a7f0169d86fc1389ad40ca4356a1404640](https://etherscan.io/address/0xba3e14a7f0169d86fc1389ad40ca4356a1404640#code). Anyone is free to use, exchange and transfer any number of OD.
 
 ### Distribution model
 
