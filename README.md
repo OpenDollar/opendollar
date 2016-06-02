@@ -26,16 +26,16 @@ The success of the project depends on everyone and is shared by everyone involve
 
 OpenDollar will be exchanging at pre-determined fixed rate. The rate is gradually increased as we get closer to the goal (a number of users in the ecosystem). It will be calculated on the basis of dividing the total amount of users per billion.
 
-1k users         1 OD = 0.000001$
+1k users,         1 OD = 0.000001$
 
-10k users         1 OD = 0.00001$
+10k users,         1 OD = 0.00001$
 
-100k users         1 OD = 0.0001$
+100k users,         1 OD = 0.0001$
 
-1mln users          1 OD = 0.001$
+1mln users,          1 OD = 0.001$
 
-10mln users          1 OD = 0.01$
+10mln users,          1 OD = 0.01$
 
-100mln users          1 OD = 0.1$
+100mln users,          1 OD = 0.1$
 
-1bln users              1 OD = 1$
+1bln users,              1 OD = 1$
