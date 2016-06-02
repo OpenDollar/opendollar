@@ -38,4 +38,4 @@ OpenDollar will be exchanging at pre-determined fixed rate. The rate is graduall
 
 100mln users          1 OD = 0.1$
 
-1bln us                 1 OD = 1$
+1bln users              1 OD = 1$
