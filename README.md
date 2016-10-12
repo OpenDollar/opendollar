@@ -5,7 +5,9 @@ OpenDollar (OD) is a new type of cryptocurrency, built on the basis of Ethereum 
 This suggests creating financial value without any financial investments. It offers maximum convenience, maximum security and involves no bureaucracy.
 
 OD is created in the amount of 50 billion units which are held by our team. Anyone can review the contract of the currency via link
- [0xc3113bcda42b1824c07f8317b40152d6730a6f37](http://etherscan.io/address/0xc3113bcda42b1824c07f8317b40152d6730a6f37#code).
+ [0x448fae87f7f5b58c6f215abd53d5cd8125e733c5](http://etherscan.io/address/0x448fae87f7f5b58c6f215abd53d5cd8125e733c5#code).
+
+OpenDollar explorer can be found here: http://explorer.ambisafe.co/#/asset/OD
 
 ### What is our goal
 
